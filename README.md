@@ -1,0 +1,1 @@
+Seriously, [don't](https://blog.cryptographyengineering.com/2014/08/13/whats-matter-with-pgp/) [use](https://words.filippo.io/giving-up-on-long-term-pgp/) [PGP](https://www.latacora.com/blog/2019/07/16/the-pgp-problem/).
